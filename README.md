@@ -53,3 +53,9 @@ My previous work and service experiences have helped me develop:
 ## Connect With Me
 
 - [LinkedIn] www.linkedin.com/in/trevor-beckstrand-a9b58b426
+
+## GitHub Statistics
+
+![Trevor's GitHub statistics](https://github-readme-stats.vercel.app/api?username=trevorrbeckstrand-11&show_icons=true&hide_border=true&theme=default)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trevorrbeckstrand-11&layout=compact&hide_border=true&theme=default)
